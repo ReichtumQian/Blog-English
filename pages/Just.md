@@ -7,4 +7,8 @@ tags:: core expression
 - I'm just there till my divorce is final.
 - Wait a minute, I'm just coming.
 -
+- ## 和 Can/Could/Would 搭配，表示能否
+- Can you please just change your shirt?
+- Would you just explain to us how the system works?
+-
 -
