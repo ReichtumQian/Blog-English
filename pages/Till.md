@@ -7,6 +7,6 @@ tags:: core expression
 - ## conj. 直到
 - Stay here till I come back.
 	- 这里 till 连着一个子句，因此是连词
--
+- I'm just there till my divorce is final.
 -
 -
