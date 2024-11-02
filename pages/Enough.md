@@ -5,4 +5,5 @@ tags:: core expression
 - **Enough to do sth**
 - Who is coconuts enough to divorce you?
 - Will Evans be fit enough to play?
+- Until he's responsible enough to take care of his own bike.
 -
