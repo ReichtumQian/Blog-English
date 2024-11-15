@@ -421,4 +421,5 @@
  :file/name-format :triple-lowbar
  :publishing/all-pages-public? true
  :feature/enable-flashcards? false
- :feature/enable-whiteboards? true}
+ :feature/enable-whiteboards? true
+ :editor/preferred-pasting-file? true}
