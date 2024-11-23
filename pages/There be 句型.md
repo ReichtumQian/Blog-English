@@ -1,0 +1,10 @@
+-
+- ## 基本结构
+- **肯定句**：There is/are + 主语 + 地点/时间
+- **否定句**：There is/are not + 主语 + 地点/时间
+- **疑问句**：Is/Are there + 主语 + 地点/时间?
+-
+- ## 用法
+- 描述存在：There is a new restaurant in town.
+-
+-
