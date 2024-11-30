@@ -1,0 +1,25 @@
+-
+- 特殊疑问句用于询问特定的信息。常见的疑问词包括 `What, Where, When, Who, Whom, Whose, Why, Which, How`。其造句格式基本与 [[一般疑问句：回答 Yes 或 No]] 差不多：
+	- 有助动词情况：将助动词提前
+	- 没助动词但是有 Be 动词：将 Be 动词提前
+	- 没有助动词也没 Be 动词：造个 do 出来
+	- 句式：疑问词 + 提前词 + 剩余句子
+-
+-
+- ## What
+-
+-
+- ## How
+- **询问方式**
+- **与其他词搭配询问程度**：
+	- **How many**
+	- **How much**
+	- **How often**
+	- **How far**
+	- **How long**
+	- **How old**
+	- **How tall**
+	- **How fast**
+-
+-
+-
