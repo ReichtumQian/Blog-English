@@ -1,3 +1,4 @@
 *.el
 logseq/bak/
 logseq/.recycle/
+.sync/
