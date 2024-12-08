@@ -5,12 +5,15 @@
 	- 没有助动词也没 Be 动词：造个 do 出来
 	- 句式：疑问词 + 提前词 + 剩余句子
 -
--
 - ## What
--
+- **What about**：跟着名词，询问某人对某事儿的看法，或者引入需要考虑的事项
+	- What about hot drinks? （询问对方最喜欢的热饮呢？）
+	- What about the budget? （预算要不要考虑呢？）
 -
 - ## How
 - **询问方式**
+- **How about**：提出某个行动建议
+	- How about going to the movies?
 - **与其他词搭配询问程度**：
 	- **How many**
 	- **How much**
