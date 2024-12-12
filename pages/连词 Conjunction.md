@@ -11,9 +11,9 @@
 	- 副词：He works quickly and efficiently.
 - **But**
 - **Or**
-- **Nor**
+- **Nor**：也不
 - **For**
-- **Yet**
+- **Yet**：表转折，虽然
 - **So**
 -
 - ## 从属连词
