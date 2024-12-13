@@ -9,3 +9,7 @@
   display: block;
   margin: 0 auto;
 }
+i {
+    text-decoration: underline;
+    font-style: normal;
+}
